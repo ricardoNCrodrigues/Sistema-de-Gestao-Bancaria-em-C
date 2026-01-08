@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687009989 source:c:\users\user\desktop\rr\materias\1º ano\2º semestre\aed\projeto\fase 1\gestor de banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
